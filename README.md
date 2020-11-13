@@ -27,3 +27,7 @@ It uses techniques and theories drawn from many fields within the context of mat
 <h3>Types of ML:</h3>
   
 <img src='https://miro.medium.com/max/1942/0*botktOR526S9maYd'>
+
+<h3>ML Process:</h3>
+
+<img src='https://www.aegissofttech.com/articles/images/ml-process.jpg'>
