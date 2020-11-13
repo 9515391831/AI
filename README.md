@@ -23,3 +23,5 @@ Deep learning AI is able to learn without human supervision, drawing from data t
 Data science is a "concept to unify statistics, data analysis and their related methods" in order to "understand and analyze actual phenomena" with data. 
 
 It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, domain knowledge and information science.
+
+<img src='https://miro.medium.com/max/1942/0*botktOR526S9maYd'>
