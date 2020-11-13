@@ -31,3 +31,5 @@ It uses techniques and theories drawn from many fields within the context of mat
 <h3>ML Process:</h3>
 
 <img src='https://www.aegissofttech.com/articles/images/ml-process.jpg'>
+
+<img src='https://cdn.analyticsvidhya.com/wp-content/uploads/2016/12/22115756/image-2.png'>
