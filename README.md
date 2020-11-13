@@ -15,3 +15,5 @@ Machine Learning is the field of study that gives computers the capability to le
 Deep learning is an AI function that mimics the workings of the human brain in processing data for use in detecting objects, recognizing speech, translating languages, and making decisions. 
 
 Deep learning AI is able to learn without human supervision, drawing from data that is both unstructured and unlabeled.
+
+<img src='https://corpnce.com/wp-content/uploads/2019/08/AI-Ml-Dl-Ds.jpg'>
