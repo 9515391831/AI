@@ -24,4 +24,6 @@ Data science is a "concept to unify statistics, data analysis and their related 
 
 It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, domain knowledge and information science.
 
+<h3>Types of ML:>
+  
 <img src='https://miro.medium.com/max/1942/0*botktOR526S9maYd'>
