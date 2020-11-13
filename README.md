@@ -17,3 +17,9 @@ Deep learning is an AI function that mimics the workings of the human brain in p
 Deep learning AI is able to learn without human supervision, drawing from data that is both unstructured and unlabeled.
 
 <img src='https://corpnce.com/wp-content/uploads/2019/08/AI-Ml-Dl-Ds.jpg'>
+
+# Data science
+
+Data science is a "concept to unify statistics, data analysis and their related methods" in order to "understand and analyze actual phenomena" with data. 
+
+It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, domain knowledge and information science.
